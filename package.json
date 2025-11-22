@@ -1,21 +1,42 @@
 {
-  "name": "coral-reef-dark-theme",
-  "displayName": "Coral Reef Dark Theme",
-  "description": "A coral reef inspired visual studio code theme",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.106.1"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Coral Reef Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Coral Reef Dark-color-theme.json"
-      }
-    ]
-  }
+	"name": "coral-reef-dark-theme",
+	"displayName": "Coral Reef Dark",
+	"description": "A coral reef inspired visual studio code theme",
+	"version": "1.0.0",
+	"publisher": "TheOrangeCat",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Ashraf-Sonde/coral_reef_vscode_theme.git"
+	},
+	"keywords": [
+		"theme",
+		"vscode theme",
+		"visual studio code theme",
+		"the orange cat",
+		"The Orange Cat",
+		"orange cat theme",
+		"TheOrangeCat",
+		"coral reef",
+		"coral reef theme",
+		"Coral Reef Dark",
+		"Coral Reef Dark Theme",
+		"coral reef dark",
+		"coral reef dark theme",
+		"dark theme"
+	],
+	"engines": {
+		"vscode": "^1.106.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Coral Reef Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Coral Reef Dark-color-theme.json"
+			}
+		]
+	}
 }
