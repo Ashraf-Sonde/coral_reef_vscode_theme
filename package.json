@@ -1,0 +1,21 @@
+{
+  "name": "coral-reef-dark-theme",
+  "displayName": "Coral Reef Dark Theme",
+  "description": "A coral reef inspired visual studio code theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coral Reef Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coral Reef Dark-color-theme.json"
+      }
+    ]
+  }
+}
